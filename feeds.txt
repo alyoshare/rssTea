@@ -10,7 +10,6 @@ https://feeds.npr.org/381444908/podcast.xml
 https://feeds.npr.org/510298/podcast.xml
 https://feeds.simplecast.com/BqbsxVfO
 https://feeds.simplecast.com/C0fPpQ64
-https://feeds.redcircle.com/bfc27ed3-6034-40d5-9df1-4f7f708e9967
 https://wordonfire.podbean.com/feed.xml
 https://wordonfire.libsyn.com/rss
 https://feeds.fireside.fm/fathermikehomilies/rss
